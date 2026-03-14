@@ -1,0 +1,20 @@
+{
+  "name": "Diamond Dismiss",
+  "size": [
+    "12",
+    "16",
+    "20",
+    "24",
+    "28",
+    "32",
+    "48"
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "",
+  "metaphor": [],
+  "comment": "This was missing from the original repo so I added it in. Description and metaphor fields should get filled out if possible!"
+}

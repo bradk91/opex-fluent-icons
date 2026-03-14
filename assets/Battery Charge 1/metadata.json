@@ -1,0 +1,14 @@
+{
+  "name": "Battery Charge 1",
+  "size": [
+    "20"
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "",
+  "metaphor": [],
+  "comment": "This was missing from the original repo so I added it in. Description and metaphor fields should get filled out if possible!"
+}
