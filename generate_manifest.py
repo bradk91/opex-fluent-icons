@@ -4,9 +4,8 @@ import json
 cwd = os.getcwd()
 asset_dir = os.path.join(cwd, 'assets')
 
-all_icons = []
+all_icons = {}
 this_icon = {}
-i = 0
 
 # Go through the assets directory and get each metadata.json file, add to the manifest
 for root, dirs, files in os.walk(asset_dir):
@@ -15,7 +14,9 @@ for root, dirs, files in os.walk(asset_dir):
         this_icon = {}
         with open(metadata_path, 'r', encoding='utf-8') as f:
             metadata = json.load(f)
-            all_icons.append(metadata)
+            all_icons[metadata['name']] = metadata
 
-
-print(all_icons[1])
+# Write the manifest to a file
+manifest_path = os.path.join(cwd, 'manifest.json')
+with open(manifest_path, 'w', encoding='utf-8') as f:
+    json.dump(all_icons, f, indent=2)
