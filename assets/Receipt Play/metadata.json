@@ -5,8 +5,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent a receipt, purchase order, line items or an invoice.",

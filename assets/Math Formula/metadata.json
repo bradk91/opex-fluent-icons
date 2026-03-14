@@ -7,8 +7,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, word, excel, powerpoint",
   "description": "Means function of x (variable). Used in general math formulas and module scripting scenarios.",

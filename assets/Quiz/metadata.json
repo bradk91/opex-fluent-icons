@@ -1,8 +1,20 @@
 {
   "name": "Quiz",
-  "size": [48, 28, 24, 20],
-  "style": ["Regular", "Filled"],
+  "size": [
+    48,
+    28,
+    24,
+    20
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon, forms",
   "description": "Used to represent a quiz in Forms.",
-  "metaphor": ["quiz", "forms", "question"]
+  "metaphor": [
+    "quiz",
+    "forms",
+    "question"
+  ]
 }

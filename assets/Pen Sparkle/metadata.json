@@ -9,9 +9,9 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used to represent creating draft in AI enhancement scenarios.",

@@ -9,8 +9,8 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent collections of files.",

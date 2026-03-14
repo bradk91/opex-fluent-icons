@@ -7,9 +7,10 @@
     32
   ],
   "style": [
-    "Filled",
-    "Regular",
-    "Light"
+    "color",
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used in a wide range of scenarios - representing a general group, contacts, contact lists, sharing, and managing access.",

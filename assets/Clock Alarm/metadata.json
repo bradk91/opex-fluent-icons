@@ -8,9 +8,10 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "color",
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used in time scenarios.",

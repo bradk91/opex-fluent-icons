@@ -9,8 +9,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to jump to next item. Paired with Previous.",

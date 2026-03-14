@@ -1,7 +1,17 @@
 {
   "name": "Video Short Multiple",
-  "size": [16, 20, 24, 28, 32, 48],
-  "style": ["Regular", "Filled"],
+  "size": [
+    16,
+    20,
+    24,
+    28,
+    32,
+    48
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon",
   "description": "Used to represent general video short content scenarios.",
   "metaphor": [

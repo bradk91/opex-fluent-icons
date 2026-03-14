@@ -10,9 +10,10 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "color",
+    "light"
   ],
   "keyword": "fluent-icon, teams",
   "description": "Used in real time chat scenarios (versus comment - different icon).",

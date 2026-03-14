@@ -10,8 +10,8 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, teams",
   "description": "Used in call scenarios.",

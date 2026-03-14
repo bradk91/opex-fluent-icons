@@ -5,11 +5,11 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
-  "description": "Used to represent saving content.â ï¸ Old metaphor - use checkmark circle instead.",
+  "description": "Used to represent saving content.\u00e2\u009a\u00a0\u00ef\u00b8\u008f Old metaphor - use checkmark circle instead.",
   "metaphor": [
     "floppy disk",
     "device",

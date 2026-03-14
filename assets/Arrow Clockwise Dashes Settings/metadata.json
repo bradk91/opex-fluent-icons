@@ -9,8 +9,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for loading, retry, & skip actions.",

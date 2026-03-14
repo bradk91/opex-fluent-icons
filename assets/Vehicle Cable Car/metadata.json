@@ -6,8 +6,8 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent cable car running on a cableway.",

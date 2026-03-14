@@ -8,8 +8,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used to represent files that include callouts.",

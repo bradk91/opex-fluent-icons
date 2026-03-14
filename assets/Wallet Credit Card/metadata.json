@@ -9,8 +9,8 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent a physical collection of payment options, money balance, or other purchase  scenarios.",

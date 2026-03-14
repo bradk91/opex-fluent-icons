@@ -6,8 +6,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, vscode",
   "description": "Used to represent UI layouts.",

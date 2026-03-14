@@ -7,8 +7,8 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent food based scenarios (restaurant, meals, etc).",

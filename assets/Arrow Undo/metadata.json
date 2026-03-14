@@ -9,12 +9,12 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
-  "description": "Used for undoing scenarios. â ï¸ Old metaphor & really unbalanced icon - use Arrow Hook instead if you can.",
+  "description": "Used for undoing scenarios. \u00e2\u009a\u00a0\u00ef\u00b8\u008f Old metaphor & really unbalanced icon - use Arrow Hook instead if you can.",
   "metaphor": [
     "arrow",
     "forward"

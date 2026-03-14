@@ -6,8 +6,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for pulling content from source. Contains directional variants.",

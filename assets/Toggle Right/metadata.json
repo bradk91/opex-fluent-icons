@@ -8,11 +8,11 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
-  "description": "Used to represent options, settings, etc. â ï¸ Should not be used as toggle UI.",
+  "description": "Used to represent options, settings, etc. \u00e2\u009a\u00a0\u00ef\u00b8\u008f Should not be used as toggle UI.",
   "metaphor": [
     "on",
     "off",

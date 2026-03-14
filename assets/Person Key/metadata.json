@@ -4,8 +4,9 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "color"
   ],
   "keyword": "fluent-icon",
   "description": "Used in a wide range of scenarios - representing a general person, a contact, contact lists, sharing, and managing access.",

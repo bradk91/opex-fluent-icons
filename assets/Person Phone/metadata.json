@@ -4,8 +4,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, intune",
   "description": "Used to represent a device tied to a person, through enrollment.",

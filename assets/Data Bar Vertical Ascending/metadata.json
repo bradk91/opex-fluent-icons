@@ -6,8 +6,9 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, visual studio code",
   "description": "Used to represent data bar graph.",

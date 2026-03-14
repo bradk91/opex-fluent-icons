@@ -7,8 +7,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used to represent mail inbox.",

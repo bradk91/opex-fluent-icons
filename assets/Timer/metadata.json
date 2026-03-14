@@ -10,8 +10,8 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used in general time tracking scenarios.",

@@ -6,8 +6,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, teams",
   "description": "Used in editing text scenarios.",

@@ -1,8 +1,20 @@
 {
   "name": "Stove",
-  "size": [20, 16],
-  "style": ["Regular", "Filled"],
+  "size": [
+    20,
+    16
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon",
   "description": "Used to represent a stove being used for cooking or heating.",
-  "metaphor": ["kitchen", "cooking", "appliance", "heat", "stove"]
+  "metaphor": [
+    "kitchen",
+    "cooking",
+    "appliance",
+    "heat",
+    "stove"
+  ]
 }

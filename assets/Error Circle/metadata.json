@@ -8,8 +8,9 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "color"
   ],
   "keyword": "fluent-icon",
   "description": "Used to indicate an error.",

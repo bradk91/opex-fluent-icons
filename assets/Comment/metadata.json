@@ -10,9 +10,10 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "color",
+    "light"
   ],
   "keyword": "fluent-icon, edge",
   "description": "Used in commenting scenarios.",

@@ -1,7 +1,13 @@
 {
   "name": "Vehicle RV",
-  "size": [20, 16],
-  "style": ["Regular", "Filled"],
+  "size": [
+    20,
+    16
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon",
   "description": "Used to represent vehicle travel scenarios.",
   "metaphor": [

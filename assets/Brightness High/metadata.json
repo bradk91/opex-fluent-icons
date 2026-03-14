@@ -9,8 +9,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, windows",
   "description": "Used in device brightness scenarios. Contains high & low variants.",

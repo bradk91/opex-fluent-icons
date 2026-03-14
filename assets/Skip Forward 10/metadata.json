@@ -8,8 +8,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used in playback controls. Contains time modifiers. Collection includes Fastforward, Rewind, Previous, Next, Stop, Pause.",

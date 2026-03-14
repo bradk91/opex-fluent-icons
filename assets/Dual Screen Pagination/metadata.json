@@ -5,8 +5,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, android",
   "description": "Used in foldable screen scenarios.",

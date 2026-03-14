@@ -6,8 +6,9 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used in general mail scenarios.",

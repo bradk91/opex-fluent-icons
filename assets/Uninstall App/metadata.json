@@ -5,8 +5,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for plugins, apps, tools. Tied to Apps & Apps Add In.",

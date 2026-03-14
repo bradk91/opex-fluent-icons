@@ -9,8 +9,9 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent current weather.",

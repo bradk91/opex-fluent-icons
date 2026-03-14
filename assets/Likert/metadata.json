@@ -6,8 +6,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, forms",
   "description": "Used to represent a Likert item (scale of agreement/disagreement).",

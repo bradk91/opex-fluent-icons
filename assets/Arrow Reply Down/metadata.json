@@ -6,11 +6,11 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook",
-  "description": "Used to reply only in Teams scenarios.â ï¸ Use Arrow Reply as default.",
+  "description": "Used to reply only in Teams scenarios.\u00e2\u009a\u00a0\u00ef\u00b8\u008f Use Arrow Reply as default.",
   "metaphor": [
     "arrow",
     "direction",

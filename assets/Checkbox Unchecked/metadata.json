@@ -7,8 +7,8 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for toggle selection states. Contains state variants.",

@@ -7,8 +7,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent news and information.",

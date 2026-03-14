@@ -5,8 +5,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "ltr",
+    "rtl"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent a checklist, goals in task oriented scenarios.",

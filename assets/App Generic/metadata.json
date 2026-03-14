@@ -7,9 +7,9 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used for content around app ui.",

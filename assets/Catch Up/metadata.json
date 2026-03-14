@@ -6,8 +6,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, word, powerpoint, excel",
   "description": "Used to summarize changes in a document that are specifically for you - replies, tasks, mentions, etc.",

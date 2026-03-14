@@ -8,8 +8,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used for board views, collecting columns in a horizontal view.",

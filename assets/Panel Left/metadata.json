@@ -9,9 +9,8 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent the plethora of secondary, elevated panels in UI. Contains direction and action variants.",

@@ -1,8 +1,18 @@
 {
   "name": "Gas Propane",
-  "size": [20, 16],
-  "style": ["Regular", "Filled"],
+  "size": [
+    20,
+    16
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon",
   "description": "Used to represent travel & vehicle scenarios.",
-  "metaphor": ["vehicle", "gas", "travel"]
+  "metaphor": [
+    "vehicle",
+    "gas",
+    "travel"
+  ]
 }

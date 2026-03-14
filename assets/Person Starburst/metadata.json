@@ -5,8 +5,9 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used in custom shaped placeholder avatars in UI.",

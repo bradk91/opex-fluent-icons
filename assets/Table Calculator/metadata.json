@@ -5,8 +5,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, excel",
   "description": "Used to represent a data table. Contains simple variant.",

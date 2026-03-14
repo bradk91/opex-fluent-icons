@@ -9,11 +9,11 @@
     32
   ],
   "style": [
-    "Filled",
-    "Regular"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
-  "description": "Used in emoji picker for custom emoji.â ï¸ Should not be used as emoji.",
+  "description": "Used in emoji picker for custom emoji.\u00e2\u009a\u00a0\u00ef\u00b8\u008f Should not be used as emoji.",
   "metaphor": [
     "face",
     "emote",

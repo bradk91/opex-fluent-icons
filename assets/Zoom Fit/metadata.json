@@ -6,8 +6,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to scale content to fit while zooming content.",

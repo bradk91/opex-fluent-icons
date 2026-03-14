@@ -6,8 +6,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, intune",
   "description": "Used to represent links physical & digital server machines.",

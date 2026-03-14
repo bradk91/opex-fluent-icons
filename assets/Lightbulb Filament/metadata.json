@@ -8,8 +8,9 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used in tooltip, sharing knowledge, or AI suggested scenarios.",

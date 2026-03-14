@@ -9,8 +9,9 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent images in content and photo editing scenarios.",

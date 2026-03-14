@@ -7,8 +7,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, edge",
   "description": "Used in browser tab scenarios. Contains option variants.",

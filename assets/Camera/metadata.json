@@ -7,8 +7,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, teams",
   "description": "Used in camera scenarios.",

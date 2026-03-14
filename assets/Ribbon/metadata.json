@@ -8,8 +8,9 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "color"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent a reward or a certificate (physical or digital).",

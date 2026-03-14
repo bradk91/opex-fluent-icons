@@ -6,8 +6,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, loop",
   "description": "Used to represent blocks of text with an expandable section header.",

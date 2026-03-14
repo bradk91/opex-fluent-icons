@@ -7,8 +7,9 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for browser certs & education scenarios.",

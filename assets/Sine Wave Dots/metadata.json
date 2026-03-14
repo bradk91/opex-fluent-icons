@@ -1,7 +1,17 @@
 {
   "name": "Sine Wave Dots",
-  "size": [48, 32, 28, 24, 20, 16],
-  "style": ["Regular", "Filled"],
+  "size": [
+    48,
+    32,
+    28,
+    24,
+    20,
+    16
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon",
   "description": "Used to represent sine wave dots.",
   "metaphor": [

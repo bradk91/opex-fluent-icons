@@ -8,8 +8,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Shouldn't be used. Like it's just a square. How did this get in the library?!Use either Full Screen, Fit, Arrow Maximize instead.",

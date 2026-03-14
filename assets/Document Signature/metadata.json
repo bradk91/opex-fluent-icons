@@ -9,9 +9,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": null,
   "description": null,

@@ -7,8 +7,9 @@
     12
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "color"
   ],
   "keyword": "fluent-icon",
   "description": "Used in map and travel scenarios.",

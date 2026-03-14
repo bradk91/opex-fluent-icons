@@ -9,8 +9,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used in playback controls. Collection includes Fastforward, Rewind, Play, Next, Stop, Pause.",

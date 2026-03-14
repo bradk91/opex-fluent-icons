@@ -9,8 +9,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, whiteboard",
   "description": "Used for shapes on canvas.",

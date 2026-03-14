@@ -1,7 +1,17 @@
 {
   "name": "Table Multiple",
-  "size": [16, 20, 24, 28, 32, 48],
-  "style": ["Regular", "Filled"],
+  "size": [
+    16,
+    20,
+    24,
+    28,
+    32,
+    48
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon, excel",
   "description": "Used to represent a data table collection.",
   "metaphor": [

@@ -6,8 +6,8 @@
     24
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, loop",
   "description": "Represents workspace in Loop, amongst other general UI layouts.",

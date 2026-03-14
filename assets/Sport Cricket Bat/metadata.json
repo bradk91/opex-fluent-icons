@@ -1,7 +1,14 @@
 {
   "name": "Sport Cricket Bat",
-  "size": [16, 20, 24],
-  "style": ["Regular", "Filled"],
+  "size": [
+    16,
+    20,
+    24
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": null,
   "description": null,
   "metaphor": null

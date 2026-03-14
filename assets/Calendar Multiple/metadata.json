@@ -8,9 +8,9 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, outlook, teams",
   "description": "Used in calendar scenarios.",

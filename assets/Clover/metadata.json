@@ -9,8 +9,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, loop",
   "description": "Used to represent component connections within Loop.",

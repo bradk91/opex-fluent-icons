@@ -4,8 +4,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "ltr",
+    "rtl"
   ],
   "keyword": "fluent-icon, edge",
   "description": "Used in ui search specifically for sidebar navigation.",

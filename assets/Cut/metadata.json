@@ -6,8 +6,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, word, excel, powerpoint",
   "description": null,

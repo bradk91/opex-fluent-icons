@@ -9,11 +9,11 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
-  "description": "â ï¸ Used only for Android overflow menus.",
+  "description": "\u00e2\u009a\u00a0\u00ef\u00b8\u008f Used only for Android overflow menus.",
   "metaphor": [
     "overflow",
     "menu",

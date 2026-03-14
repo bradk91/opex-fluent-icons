@@ -5,8 +5,9 @@
     24
   ],
   "style": [
-    "Filled",
-    "Regular"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to indicate growth.",

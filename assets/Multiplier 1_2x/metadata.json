@@ -8,8 +8,8 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, stream",
   "description": "Used to represent video speed. Contains number variants.",

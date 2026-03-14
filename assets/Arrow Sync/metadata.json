@@ -7,8 +7,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "color"
   ],
   "keyword": "fluent-icon",
   "description": "Used for synchronizing & loading scenarios.",

@@ -8,9 +8,9 @@
     32
   ],
   "style": [
-    "Filled",
-    "Regular",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used to select text density in UI scenarios.",

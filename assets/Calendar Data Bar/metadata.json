@@ -8,9 +8,10 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "color",
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used in calendar scenarios. Contains direction variants.",

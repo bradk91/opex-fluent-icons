@@ -5,8 +5,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for adjusting content size. Dotted versions are used for autofit. Contains height & width variants.",

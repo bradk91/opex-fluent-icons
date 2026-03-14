@@ -5,8 +5,9 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used to scale content to fit. Similar to Arrow Fit. Contains directional variants.",

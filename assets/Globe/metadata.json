@@ -10,8 +10,10 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "color",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used in scenarios representing the internet & global representation scenarios.",

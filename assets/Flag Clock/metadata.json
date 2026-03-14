@@ -9,8 +9,8 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used in mail to mark as important.",

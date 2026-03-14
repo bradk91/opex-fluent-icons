@@ -10,9 +10,9 @@
     48
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon",
   "description": "Used in scenarios where UI is closed, dismissed, or removed.",

@@ -6,11 +6,11 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, outlook, teams",
-  "description": "â ï¸ Not in repo. Used only for examples that need a mock date.",
+  "description": "\u00e2\u009a\u00a0\u00ef\u00b8\u008f Not in repo. Used only for examples that need a mock date.",
   "metaphor": [
     "time",
     "date",

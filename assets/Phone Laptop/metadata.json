@@ -7,8 +7,9 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent a physical or digital mobile phone scenarios.",

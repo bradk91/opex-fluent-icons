@@ -7,8 +7,8 @@
     32
   ],
   "style": [
-    "Filled",
-    "Light"
+    "filled",
+    "light"
   ],
   "keyword": "fluent-icon, vscode",
   "description": "Used to represent UI layouts.",

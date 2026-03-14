@@ -1,8 +1,19 @@
 {
   "name": "Microwave",
-  "size": [16, 20],
-  "style": ["Regular", "Filled"],
+  "size": [
+    16,
+    20
+  ],
+  "style": [
+    "filled",
+    "regular"
+  ],
   "keyword": "fluent-icon",
   "description": "Used to represent a microwave.",
-  "metaphor": ["kitchen", "appliance", "microwave", "cooking"]
+  "metaphor": [
+    "kitchen",
+    "appliance",
+    "microwave",
+    "cooking"
+  ]
 }

@@ -9,8 +9,9 @@
     28
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
   "description": "Used for directional indicators, links. Contains directional variants.",

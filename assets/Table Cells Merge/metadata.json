@@ -8,9 +8,9 @@
     32
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, excel",
   "description": "Used to represent merging two cells in a table.",

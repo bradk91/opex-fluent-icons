@@ -7,8 +7,9 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, outlook",
   "description": "Used for undo/redo scenarios. Contains directional variants.",

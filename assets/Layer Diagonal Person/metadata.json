@@ -6,8 +6,9 @@
     24
   ],
   "style": [
-    "Filled",
-    "Regular"
+    "color",
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, edge",
   "description": "Used to represent a workspace of tabs within browser.",

@@ -7,8 +7,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, forms",
   "description": "Used to represent a new quiz in Forms.",

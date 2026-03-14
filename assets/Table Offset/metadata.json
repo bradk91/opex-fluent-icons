@@ -5,8 +5,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, excel",
   "description": "Used to represent a data table specifically around conditional formatting of the rows & columns.",

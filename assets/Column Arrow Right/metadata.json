@@ -4,8 +4,8 @@
     20
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon, edge",
   "description": "Used to represent content columns.",

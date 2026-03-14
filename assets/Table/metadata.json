@@ -9,9 +9,10 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled",
-    "Light"
+    "color",
+    "filled",
+    "regular",
+    "light"
   ],
   "keyword": "fluent-icon, excel",
   "description": "Used to represent a data table.",

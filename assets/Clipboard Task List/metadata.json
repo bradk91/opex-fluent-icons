@@ -6,8 +6,10 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular",
+    "ltr",
+    "rtl"
   ],
   "keyword": "fluent-icon",
   "description": "Used in copy & task scenarios. Contains directional variants.",

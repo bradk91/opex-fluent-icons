@@ -8,11 +8,11 @@
     10
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "filled",
+    "regular"
   ],
   "keyword": "fluent-icon",
-  "description": "â ï¸ These do not represent the guidelines and quality of the Fluent System iconography. They are included as a way to make it easier for products to pull in without needed a second process.",
+  "description": "\u00e2\u009a\u00a0\u00ef\u00b8\u008f These do not represent the guidelines and quality of the Fluent System iconography. They are included as a way to make it easier for products to pull in without needed a second process.",
   "metaphor": [
     "avatar",
     "status",

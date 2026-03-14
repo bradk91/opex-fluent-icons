@@ -6,8 +6,8 @@
     16
   ],
   "style": [
-    "Regular",
-    "Filled"
+    "ltr",
+    "rtl"
   ],
   "keyword": "fluent-icon",
   "description": "Used to represent multi-select list in UI. Contains LTR / RTL variants.",
