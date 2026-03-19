@@ -12,26 +12,23 @@ errors = []
 def get_optimal_size(svg_dir):
     if not os.path.isdir(svg_dir):
         return None
-
     sizes = set()
-
     # Parse each filename to find all the sizes and throw in a set to dedupe them
     for icon_path in os.scandir(svg_dir):
         if icon_path.is_file() and icon_path.name.endswith('.svg'):
             size = icon_path.name.split('_')[-2]
             if size.isdigit():
                 sizes.add(int(size))
-
     if not sizes:
         return None
-
     # Find the available size closest to 24px. Ties choose the smaller size.
     optimal_size = min(sizes, key=lambda s: (abs(s - 24), s))
     return str(optimal_size)
 
 def get_icon_details(icon_path, metadata):
     icon_details = {}
-    icon_details['name'] = '_'.join(icon_path.name.split('_')[2:-2])
+    icon_details['name'] = metadata['name']
+    icon_details['internal_name'] = '_'.join(icon_path.name.split('_')[2:-2] + [icon_path.name.split('_')[-1].split('.svg')[0]])
     icon_details['style'] = icon_path.name.split('_')[-1].split('.svg')[0]
     icon_details['size'] = icon_path.name.split('_')[-2]
     icon_details['tags'] = metadata['metaphor']
